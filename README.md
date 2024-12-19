@@ -7,6 +7,5 @@ Il gioco ti propone una serie di sequenze di suoni che devi riprodurre correttam
 # Caratteristiche principali:
 <br>**Enigmi sonori:** I suoni vengono generati dinamicamente e dovrai riconoscerli e riprodurli.<br>
 <br>**Punteggio:** Ogni sequenza corretta aumenta il punteggio, mentre un errore ti fa ripartire dal livello precedente.<br>
-<br>**Design reattivo:** Il gioco è ottimizzato per adattarsi a qualsiasi dispositivo, così puoi giocarci ovunque!<br>
 
 <br><br>_Creato con PHP, JavaScript, XMLHttpRequest, Ajax e la Web Audio API (WAA)._
